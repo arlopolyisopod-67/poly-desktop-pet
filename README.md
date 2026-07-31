@@ -2,7 +2,7 @@
 
 Poly is a lightweight, interactive desktop pet built with Python, Pygame, and the Win32 API. He wanders around your screen, eats leaves, and hangs out on top of your windows!
 
-![Poly Preview](assets/textures/idle1.png)
+![Poly Preview](assets/idle1.png)
 
 ## ✨ Features
 * **Always On Top:** Poly walks above your open windows.
