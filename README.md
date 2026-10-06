@@ -18,7 +18,7 @@ Poly is a lightweight, interactive desktop pet built with Python, Pygame, and th
 
 ### Option 2: Run from Source
 ```bash
-git clone https://github.com/your-username/poly-desktop-pet.git
+git clone https://github.com/arlopolyisopod-67/poly-desktop-pet.git
 cd poly-desktop-pet
 pip install pygame-ce
 python main.py
@@ -26,7 +26,7 @@ python main.py
 
 ### Option 3: Compile:
 ```bash
-git clone https://github.com/your-username/poly-desktop-pet.git
+git clone https://github.com/arlopolyisopod-67/poly-desktop-pet.git
 cd poly-desktop-pet
 pip install pyinstaller
 pyinstaller --noconfirm --onedir --windowed --name "poly" --add-data "...\assets;assets" --add-data "...\utils;utils"  ...\main.py
